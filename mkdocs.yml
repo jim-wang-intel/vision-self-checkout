@@ -85,4 +85,4 @@ markdown_extensions:
   - tables
 extra:
   version:
-    provider: 'mike'
+    provider: mike

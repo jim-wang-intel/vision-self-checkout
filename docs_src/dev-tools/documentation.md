@@ -18,7 +18,7 @@
 
 2. Install mike tool on local development environment
 
-    ```bash
+    ```console
     pip install mike
     ```
 
